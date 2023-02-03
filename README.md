@@ -1,0 +1,2 @@
+# Bollinger Band
+ Two Expert Advisors in MQL4 that utilize a Bollinger Band and RSI-based trading strategy. The advisors analyze market conditions and place trades based on fluctuations in price relative to the Bollinger Bands and RSI. One advisor focuses solely on the Bollinger Bands, while the other employs a dual-indicator approach, combining the Bollinger Bands with the RSI. This project offers a versatile solution for traders looking to automate their trading using a combination of popular technical indicators.
